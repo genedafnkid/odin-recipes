@@ -1,0 +1,23 @@
+[33mcommit da67c37d8eebe0b5013d2f145de9beee200ebc51[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Gene Merc Sepe <gmsepe123@gmail.com>
+Date:   Sat Feb 26 23:58:08 2022 +0800
+
+    Added the recipe of sinigang, all steps that was done for Adobo is just the same
+
+[33mcommit 4afb39e9b7b2c37c9fd11baae5fc10ddf2a19566[m
+Author: Gene Merc Sepe <gmsepe123@gmail.com>
+Date:   Sat Feb 26 19:48:23 2022 +0800
+
+    The first recipe html is done and anchored on the index file
+
+[33mcommit e8386a41d27b9cb855b9222ec0fc21d1410389e0[m
+Author: Gene Merc Sepe <gmsepe123@gmail.com>
+Date:   Sat Feb 26 19:33:45 2022 +0800
+
+    This is the index.html without the recipes
+
+[33mcommit 2067ba8364f3a2197c196f1b53f763100e33e6bf[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: genedafnkid <83385325+genedafnkid@users.noreply.github.com>
+Date:   Sat Feb 26 18:50:31 2022 +0800
+
+    Initial commit
